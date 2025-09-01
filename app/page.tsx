@@ -190,20 +190,17 @@ export default function LunchBoxLanding() {
             <Button
               variant="ghost"
               className="text-sm md:text-lg font-light text-gray-600 dark:text-white/70 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100/50 dark:hover:bg-white/5 transition-all duration-300 px-2 md:px-4"
-              onClick={() => window.open("https://www.lunch-box.co/modern-bento-grid-presentation-deck-template/edit", "_blank")}
             >
               Our Work
             </Button>
             <Button
               variant="ghost"
               className="text-sm md:text-lg font-light text-gray-600 dark:text-white/70 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100/50 dark:hover:bg-white/5 transition-all duration-300 px-2 md:px-4"
-              onClick={() => window.open("https://www.lunch-box.co/free-bento-grid-templates", "_blank")}
             >
               Services
             </Button>
             <Button
               className="rounded-full bg-gray-900 dark:bg-white text-white dark:text-black hover:bg-gray-800 dark:hover:bg-white/90 px-3 md:px-6 py-1.5 md:py-2 text-sm md:text-base hover:scale-105 transition-all duration-300 hover:shadow-lg"
-              onClick={() => window.open("https://www.lunch-box.co/new", "_blank")}
             >
               Contact Us
             </Button>
@@ -260,7 +257,6 @@ export default function LunchBoxLanding() {
             <div className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 via-pink-600 to-cyan-600 dark:from-purple-500 dark:via-pink-500 dark:to-cyan-500 p-[1px] rounded-full group hover:scale-105 transition-all duration-300 hover:shadow-xl">
               <Button
                 className="rounded-full bg-white dark:bg-black text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-black/90 px-6 md:px-8 py-4 md:py-6 text-lg md:text-xl group"
-                onClick={() => window.open("https://www.lunch-box.co/new", "_blank")}
               >
                 Start Your Project
                 <ArrowRight className="ml-2 h-4 w-4 md:h-5 md:w-5 group-hover:translate-x-1 transition-transform duration-300" />
@@ -549,7 +545,6 @@ export default function LunchBoxLanding() {
             <div className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 via-pink-600 to-cyan-600 dark:from-purple-500 dark:via-pink-500 dark:to-cyan-500 p-[1px] rounded-full group hover:scale-105 transition-all duration-300 hover:shadow-xl">
               <Button
                 className="rounded-full bg-white dark:bg-black text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-black/90 px-8 md:px-12 py-6 md:py-8 text-lg md:text-2xl group"
-                onClick={() => window.open("https://www.lunch-box.co/new", "_blank")}
               >
                 Start Your Project
                 <ArrowRight className="ml-2 md:ml-3 h-5 w-5 md:h-6 md:w-6 group-hover:translate-x-1 transition-transform duration-300" />

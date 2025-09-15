@@ -28,7 +28,7 @@ const translations = {
     "hero.cta": "Začať projekt",
     
     // Showcase Section
-    "showcase.title": "Transformujeme značky pomocou",
+    "showcase.title": "Pomáhame firmám pomocou",
     "showcase.titleHighlight": "digitálnej inovácie",
     "showcase.subtitle": "Náš tím poskytuje vlastné webové dizajny, branding a marketingové riešenia, ktoré vám pomôžu vyniknúť v preplnenom digitálnom svete.",
     "showcase.trustedBy": "Dôverujú nám startupy, firmy a globálne značky",
@@ -170,7 +170,7 @@ const translations = {
     "hero.cta": "Start Your Project",
     
     // Showcase Section
-    "showcase.title": "Transforming Brands with",
+    "showcase.title": "Helping Brands with",
     "showcase.titleHighlight": "Digital Innovation",
     "showcase.subtitle": "Our team delivers custom web design, branding, and marketing solutions that help you stand out in a crowded digital world.",
     "showcase.trustedBy": "Trusted by startups, businesses, and global brands",
